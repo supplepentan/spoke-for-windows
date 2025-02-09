@@ -8,6 +8,6 @@
 
 ## 起動
 
-`yarn start`
+`scripts/run-spoke.ps1`
 
 https://localhost:9090/ にアクセス

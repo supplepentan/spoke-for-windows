@@ -11,4 +11,4 @@ $env:HUBS_SERVER = "localhost:4000"
 $env:RETICULUM_SERVER = "localhost:4000"
 
 # npm start を実行
-npm start
+yarn start

@@ -1,4 +1,4 @@
-# Dialog for Windows
+# Spoke for Windows
 
 ## 初期設定
 
